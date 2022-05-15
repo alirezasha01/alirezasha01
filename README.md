@@ -32,6 +32,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 :seedling: Front-End Web Developer.
 
 :zap: Amateur Graphic Designer.
-
+  
+<hr/>
 </div>
 :hammer_and_wrench: Languages and Tools :
