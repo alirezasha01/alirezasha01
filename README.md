@@ -23,9 +23,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 <hr/>
   
-:man_technologist: About Me :
+  <h3>:man_technologist: About Me :</h3>
 
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+  <span>I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</span>
 
 :telescope: Computer Science Student.
 
