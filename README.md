@@ -27,11 +27,11 @@
 
   <span>I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</span>
 
-:telescope: Computer Science Student.
+<span>:telescope: Computer Science Student.</span>
 
-:seedling: Front-End Web Developer.
+<span>:seedling: Front-End Web Developer.</span>
 
-:zap: Amateur Graphic Designer.
+<span>:zap: Amateur Graphic Designer.</span>
   
 <hr/>
 </div>
