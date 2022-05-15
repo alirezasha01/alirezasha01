@@ -33,3 +33,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 :zap: Amateur Graphic Designer.
 
 </div>
+:hammer_and_wrench: Languages and Tools :
