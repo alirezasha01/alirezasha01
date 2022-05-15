@@ -22,7 +22,7 @@
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 <hr/>
-  
+  </div>
   <h3>:man_technologist: About Me :</h3>
 
   <span>I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.</span>
@@ -34,7 +34,6 @@
 <span>:zap: Amateur Graphic Designer.</span>
   
 <hr/>
-</div>
 <div>
   <h3>:hammer_and_wrench: Languages and Tools :</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
