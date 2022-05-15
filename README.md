@@ -49,3 +49,4 @@
 <div>
   <h3>:fire: My Stats :</h3>
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alirezasha01&theme=dark&background=000000)](https://git.io/streak-stats)
